@@ -7,3 +7,13 @@ p{
     margin: 20px;
     padding: 20px;
 }
+.gas{
+    background-color: antiquewhite;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.gas p{
+    color: rgb(255, 89, 0);
+    padding: 10px 50px 10px 50px;
+}
