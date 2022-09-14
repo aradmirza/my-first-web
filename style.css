@@ -18,5 +18,8 @@ p{
     padding: 10px 50px 10px 50px;
 }
 body{
-    background: yellow;
+    background: rgba(245, 223, 172, 0.606);
+}
+ul{
+    text-align: center;
 }
