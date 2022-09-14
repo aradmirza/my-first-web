@@ -1,0 +1,9 @@
+p{
+    color: blue;
+    border: 2px solid green;
+    border-radius: 20px;
+    text-align: center;
+    tab-size: 30px;
+    margin: 20px;
+    padding: 20px;
+}
