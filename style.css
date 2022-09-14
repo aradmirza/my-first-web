@@ -20,6 +20,7 @@ p{
 body{
     background: rgba(245, 223, 172, 0.606);
 }
-ul{
-    text-align: center;
+img{
+    position: absolute;
+    align-items: center;
 }
